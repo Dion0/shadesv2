@@ -4,7 +4,7 @@ import shutil
 
 CFG_PREFIX = "cfg/discord_"
 CFG_POSTFIX = ".cfg"
-rnn_prefix = r'char-rnn-tensorflow/'
+rnn_prefix = r'rnn2/'
 
 DEF_msg_to_reply = 69
 DEF_whitelist_mode = False
