@@ -9,11 +9,15 @@ for connected server ids look into info/servers_disambig.txt
 
 you need to create Config.py file with those variables:
 
----
+--
 DISCORD_TOKEN = 'your token'
+
 IMGUR_CLIENT_ID = 'your imgur client id'
+
 IMGUR_CLIENT_SECRET = 'your imgur client secret'
----
+--
+
+
 
 run DiscrodBot.py
 
